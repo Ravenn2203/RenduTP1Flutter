@@ -6,4 +6,4 @@
 
 >Lors du développement j'ai effectué mes tests avec un émulateur Android : Le Pixel 3 (API 30).
 
->Le rapport du rendu se trouve également dans le dépôt : Rapport_TP1_flutter
+>Le rapport du rendu se trouve également dans le dépôt : Rapport_TP1_flutter.pdf
