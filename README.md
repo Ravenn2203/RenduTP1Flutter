@@ -1,4 +1,4 @@
-# RenduTP1Flutter
+# TP1 Flutter : Création d'interfaces graphiques en Flutter
 
 >Projet réalisé pour le TP1 avec la création d'interfaces graphiques en Flutter. Le dépôt contient uniquement un projet : tp1. Les fichiers .dart se trouvent dans tp1/lib/TP1>
 
